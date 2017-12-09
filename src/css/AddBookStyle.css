@@ -1,0 +1,51 @@
+.addBook{
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 2px 2px 7px;
+    background-color: lightgray;
+    margin: 2%;
+
+}
+.addBookHeader{
+    padding-left: 2%;
+    float: left;
+}
+.submitButton{
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 2px 2px 7px;
+
+    margin: 2%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+
+    float: right;
+}
+.submitButton:hover{
+    background-color: #222222;
+    color: white;
+    margin: 2%;
+    float: right;
+}
+
+.infoBar{
+    display: flex;
+    padding-bottom: 2%;
+}
+.info {
+    margin: 1%;
+    display: flex;
+}
+
+.infoTitle {
+    float: left;
+    margin: 1%;
+}
+
+.input{
+    margin: 1%;
+    float: left;
+}
+.clear{
+    clear: both;
+}

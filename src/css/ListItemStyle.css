@@ -1,0 +1,55 @@
+.book{
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 2px 2px 7px;
+    background-color: lightgray;
+    margin: 2%;
+}
+.bookHeader{
+
+    margin-left: 2%;
+     text-align: left;
+     float: left;
+     width: 50%;
+}
+.submitButton{
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 2px 2px 7px;
+
+    margin: 2%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+
+    float: right;
+}
+.submitButton:hover{
+    background-color: #222222;
+    color: white;
+    margin: 2%;
+    float: right;
+}
+.title{
+    text-align: left;
+    float: left;
+    width: 50%;
+}
+.hash{
+    color: white;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: #1985A1;
+    margin: 1%;
+    float: left;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.clear{
+    clear: both;
+}
+
+.bookButtons{
+    float: right;
+}
